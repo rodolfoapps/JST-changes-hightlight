@@ -1,0 +1,37 @@
+{
+  "book": "JST Psalm",
+  "chapter": 13,
+  "reference": "JST Psalm 13",
+  "verses": [
+    {
+      "verse": 1,
+      "reference": "JST Psalm 13:1",
+      "text": "How {{long, O Lord,}} wilt thou **withdraw thyself from me? How** long wilt thou hide thy face from {{me, that I may not see thee? Wilt thou forget me and cast me off from thy presence forever?}}"
+    },
+    {
+      "verse": 2,
+      "reference": "JST Psalm 13:2",
+      "text": "How long shall I take counsel in my soul, {{sorrowing}} in my heart daily? **How** long shall mine enemy be exalted over me?"
+    },
+    {
+      "verse": 3,
+      "reference": "JST Psalm 13:3",
+      "text": "Consider {{me, O Lord,}} and hear {{my cry,}} O my {{God, and}} lighten mine eyes, lest I sleep the {{death}} of {{the ungodly, lest mine enemy say, I have prevailed against him.}}"
+    },
+    {
+      "verse": 4,
+      "reference": "JST Psalm 13:4",
+      "text": "{{Those}} that trouble me rejoice when I am **moved;**"
+    },
+    {
+      "verse": 5,
+      "reference": "JST Psalm 13:5",
+      "text": "But I have trusted in thy mercy; my heart shall rejoice in thy salvation."
+    },
+    {
+      "verse": 6,
+      "reference": "JST Psalm 13:6",
+      "text": "I will sing unto the **Lord** because he hath dealt bountifully with me."
+    }
+  ]
+}
